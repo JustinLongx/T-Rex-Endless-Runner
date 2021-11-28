@@ -1,0 +1,10 @@
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe.config
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.pdb
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Form1.resources
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Properties.Resources.resources
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.exe
+C:\Users\justi\Desktop\Side Projects\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.pdb
