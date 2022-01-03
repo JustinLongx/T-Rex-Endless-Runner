@@ -103,7 +103,7 @@ namespace T_Rex_Endless_Runner
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(808, 450);
             this.Controls.Add(this.txtScore);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.pictureBox4);
