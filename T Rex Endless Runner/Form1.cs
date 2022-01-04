@@ -14,11 +14,11 @@ namespace T_Rex_Endless_Runner
     {
         bool jumping = false; // boolean to check if player is jumping or not
         int jumpSpeed; // integer to set jump speed
-        int force = 12; // force of the jump in an integer
+        int force = 12; // force of the jump as an integer
         int score = 0; // default score integer set to 0
         int obstacleSpeed = 10; // the default speed for the obstacles
         Random rand = new Random(); /* create a new random class.
-                                     This random number generator called rnd will be used to
+                                     This random number generator called rand will be used to
                                      calculate a random location for the obstacles to spawn once the game starts
                                      and when the reach the fast left of the screen.*/
         int position;
