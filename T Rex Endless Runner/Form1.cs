@@ -20,7 +20,7 @@ namespace T_Rex_Endless_Runner
         Random rand = new Random(); /* create a new random class.
                                      This random number generator called rand will be used to
                                      calculate a random location for the obstacles to spawn once the game starts
-                                     and when the reach the fast left of the screen.*/
+                                     and when the reach the far left of the screen.*/
         int position;
         bool isGameOver = false;
         
@@ -99,7 +99,7 @@ namespace T_Rex_Endless_Runner
                 }
             }
 
-            // if score is equals or greater than 10
+            // if score is equal or greater than 10
             if (score > 10)
             {
 
@@ -151,7 +151,7 @@ namespace T_Rex_Endless_Runner
 
             foreach (Control x in this.Controls)
             {
-                // is X is a picture box and it has a tag of obstacle
+                // if X is a picture box and it has a tag of obstacle
                 if (x is PictureBox && (string)x.Tag == "obstacle")
                 {
                     // generate a random number in the position integer between 500 and 800
